@@ -1,0 +1,3 @@
+displayName = Biological Horror
+author = Cross Co.
+version = 0.0.1

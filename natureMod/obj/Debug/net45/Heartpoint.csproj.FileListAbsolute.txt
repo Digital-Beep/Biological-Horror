@@ -1,0 +1,4 @@
+C:\Users\admin_guest\Documents\My Games\Terraria\ModLoader\Mod Sources\Heartpoint\obj\Debug\net45\Heartpoint.csprojAssemblyReference.cache
+C:\Users\admin_guest\Documents\My Games\Terraria\ModLoader\Mod Sources\Heartpoint\obj\Debug\net45\Heartpoint.AssemblyInfoInputs.cache
+C:\Users\admin_guest\Documents\My Games\Terraria\ModLoader\Mod Sources\Heartpoint\obj\Debug\net45\Heartpoint.AssemblyInfo.cs
+C:\Users\admin_guest\Documents\My Games\Terraria\ModLoader\Mod Sources\Heartpoint\obj\Debug\net45\Heartpoint.csproj.CoreCompileInputs.cache
